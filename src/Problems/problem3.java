@@ -1,4 +1,4 @@
-package chatGPTproblems;
+package Problems;
 
 //rated 95% did use external help however was in a different programming language
 //rate 50/100 on the difficulty scale

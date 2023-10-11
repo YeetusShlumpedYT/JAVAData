@@ -1,4 +1,4 @@
-package chatGPTproblems;
+package Problems;
 class ListNode{
     int val;
     ListNode next;

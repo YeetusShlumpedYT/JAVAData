@@ -1,4 +1,4 @@
-package chatGPTproblems;
+package Problems;
 import java.util.*;
 public class problem1 {
     /*Write a program that asks the user for their name and age,

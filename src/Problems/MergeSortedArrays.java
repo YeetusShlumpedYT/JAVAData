@@ -1,4 +1,4 @@
-package chatGPTproblems;
+package Problems;
 import java.util.Arrays;
 public class MergeSortedArrays {
     public static void merge(int[] nums1, int m, int[] nums2, int n){

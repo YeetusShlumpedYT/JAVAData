@@ -1,4 +1,4 @@
-package chatGPTproblems;
+package Problems;
 
 import java.util.ArrayList;
 import java.util.*;
