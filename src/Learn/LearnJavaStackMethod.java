@@ -1,7 +1,7 @@
 package Learn;
 import java.util.*;
 
-public class LearnJavaStackMehtond {
+public class LearnJavaStackMethod {
     public static void main(String[] args){
 
         Stack<Character> stack = new Stack<>();
