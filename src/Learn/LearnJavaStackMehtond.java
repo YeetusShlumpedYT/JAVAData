@@ -1,2 +1,4 @@
-package Learn;public class LearnJavaStackMehtond {
+package Learn;
+
+public class LearnJavaStackMehtond {
 }
